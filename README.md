@@ -26,7 +26,7 @@ Simple and lightweight Node.js architecture
 
 Includes schema + seed SQL files
 
-Ready for deployment on Railway / Render
+Ready for deployment on Railway
 
 Tech Stack
 
@@ -118,13 +118,7 @@ Deployment
 
 This project can be deployed on:
 
-Railway.app (recommended)
-
-Render.com
-
-Docker container
-
-For deployment:
+Railway.app 
 
 Create a MySQL database on the platform
 
@@ -135,7 +129,7 @@ Import schema and seed files
 Deploy the Node server
 
 
-Production URL: https:
+Production URL: https://dish-search-production.up.railway.app/search/dishes?name=biryani&minPrice=0&maxPrice=500
 
 License
 
